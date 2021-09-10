@@ -54,6 +54,7 @@ Bupis have the capability of doing Following:
 ![image](https://user-images.githubusercontent.com/84476709/132822037-c85fbff1-403c-4b97-a871-bf2abeaed23f.png)
 
 # Flow diagram of interacting with Bupis
-![image](https://user-images.githubusercontent.com/84476709/132822096-dba08b66-07f9-4b36-b3d7-bb1d860a63da.png)
+![image](https://user-images.githubusercontent.com/84476709/132822624-f120c145-31bb-4473-b189-77b5acd1821f.png)
+
 
 
