@@ -45,5 +45,15 @@ Bupis have the capability of doing Following:
 
 •	It allows the user to share the location.
 
+# Designing of Bupis
+•	Procedure of authorizing token
+
+![image](https://user-images.githubusercontent.com/84476709/132821986-e3fc90d0-04d0-40e6-85c8-cfbec8b7c3a4.png)
+
+# Creating buttons:
+![image](https://user-images.githubusercontent.com/84476709/132822037-c85fbff1-403c-4b97-a871-bf2abeaed23f.png)
+
+# Flow diagram of interacting with Bupis
+![image](https://user-images.githubusercontent.com/84476709/132822096-dba08b66-07f9-4b36-b3d7-bb1d860a63da.png)
 
 
